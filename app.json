@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "ezpeed",
+    "description": "App for Ezpeed",
+    "slug": "snack-rkgV7B4lm",
+    "privacy": "public",
+    "sdkVersion": "27.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#d64747",
+    "icon": "./assets/img/ezpeed.logo.png",
+    "loading": {
+      "icon": "./assets/img/ezpeed.logo.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "android": {
+      "package": "com.enrique.ezpeed",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDmNKfF0GOTRLHaZgZXKd2E0ascj9Z1V8g"
+        }   
+      }
+    }
+  }
+}

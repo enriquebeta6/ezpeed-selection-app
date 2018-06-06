@@ -1,0 +1,21 @@
+{
+  "name": "ezpeed",
+  "version": "0.0.0",
+  "description": "Verificar nivel de habilidades do desenvolvedor entrevistado, mensurar tempo necessário para desenvolvimento de funcionalidades e validar/nivelar expertises presentes no curriculo do desenvolvedor.",
+  "author": "Enriquebeta6",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^27.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
+    "firebase": "5.0.4",
+    "native-base": "2.4.5",
+    "react-native-elements": "0.18.5",
+    "react-native-maps": "0.21.0",
+    "react-redux": "^5.0.0",
+    "react-router-native": "4.2.0",
+    "redux": "^4.0.0-0",
+    "redux-form": "7.3.0"
+  }
+}
